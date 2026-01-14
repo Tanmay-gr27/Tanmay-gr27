@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tanmay-gr27
-- 👀 I’m interested in .programming .VLSI .IoT .Embedded-Systems ..
+- 👀 I’m interested in .programming .VLSI .IoT .Embedded-Systems and AI/ML ..
 - 🌱 I’m currently learning .C-Program..
 - 💞️ I’m looking to collaborate on best seniors and students..
 - 📫 How to reach me tanmaygr706@gmail.com
